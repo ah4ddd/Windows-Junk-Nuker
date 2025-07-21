@@ -48,7 +48,7 @@ This script is:
 
 ## ⚡ Usage
 
-1. **Download** `temp_cleaner.bat`  
+1. **Download** `system-junk-purge.bat`  
 2. **Right-click** the file > `Run as Administrator`  
 3. Watch it **brutalize junk** in seconds  
 4. Done. Breathe. Enjoy the speed boost.
