@@ -1,6 +1,6 @@
 # 🧨 Windows Junk Cleaner: Brutal Mode
 
-> **Clean. Fast. Raw. No BS.**  
+> **Clean. Fast. Raw.**  
 > Wipes out non-critical junk from your Windows system with one click — nothing more, nothing less.
 
 ---
@@ -79,6 +79,6 @@ Credit optional..
 
 ## 🧠 Author
 
-Made by a fed-up savage tired of Windows hoarding garbage.  
+Created by Ahad (github : ah4ddd) - Tired of Windows hoarding garbage.  
 Powerful. Minimal. Honest. Brutal.
 
