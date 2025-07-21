@@ -1,6 +1,6 @@
-# 🧨 Windows Junk Cleaner: Brutal Mode
+# 🧨Brutal Windows Junk Cleaner
 
-> **Clean. Fast. Raw. No BS.**  
+> **Clean. Fast. Raw.**  
 > Wipes out non-critical junk from your Windows system with one click — nothing more, nothing less.
 
 ---
@@ -48,7 +48,7 @@ This script is:
 
 ## ⚡ Usage
 
-1. **Download** `temp_cleaner.bat`  
+1. **Download** `system-junk-purge.bat`  
 2. **Right-click** the file > `Run as Administrator`  
 3. Watch it **brutalize junk** in seconds  
 4. Done. Breathe. Enjoy the speed boost.
@@ -79,6 +79,7 @@ Credit optional..
 
 ## 🧠 Author
 
-Made by a fed-up savage tired of Windows hoarding garbage.  
+Created by Ahad [`ah4ddd`](https://github.com/ah4ddd)
+ - Tired of Windows hoarding garbage.  
 Powerful. Minimal. Honest. Brutal.
 
